@@ -1,8 +1,3 @@
-Text Preprocessing (Text Cleaning, Stemming / Lemmatization)
-• Word Embedding (using an algorithm like Word2Vec, Glove, FastText)
-• Encoding Techniques (Bag of Words, One – Hot)
-• Parts of Speech tagging.
-
 import pandas as pd
 import nltk
 import gensim
